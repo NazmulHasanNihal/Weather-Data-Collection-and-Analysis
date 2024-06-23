@@ -1,0 +1,11 @@
+City,Weather,Temperature_Celsius,Humidity,Wind_speed,Timestamp
+New York,broken clouds,23.62,83,1.79,2024-06-23 10:43:00
+Los Angeles,clear sky,21.92,70,3.6,2024-06-23 10:46:06
+Chicago,very heavy rain,22.68,90,7.66,2024-06-23 10:46:42
+Houston,broken clouds,27.18,75,3.09,2024-06-23 10:46:51
+Phoenix,broken clouds,34.54,39,3.09,2024-06-23 10:49:04
+Philadelphia,clear sky,25.71,79,0.0,2024-06-23 10:49:05
+San Antonio,clear sky,27.49,70,5.14,2024-06-23 10:49:05
+San Diego,few clouds,20.86,82,3.09,2024-06-23 10:47:46
+Dallas,clear sky,29.25,66,3.09,2024-06-23 10:41:01
+San Jose,clear sky,21.44,57,2.06,2024-06-23 10:47:40
